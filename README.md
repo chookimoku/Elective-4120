@@ -18,3 +18,6 @@ An activity about choosing appropriate colors and fonts to create a clear and at
 
 ### Activity 3: Social Media Infographics and Mini Project Documentation
 An activity focused on creating social media infographics and documenting a mini project.
+
+### Activity 4: Group Reporting about Google Apps
+An activity which the class is divided into 5 groups and each are assigned with different google app to present in class.
