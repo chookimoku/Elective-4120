@@ -1,5 +1,7 @@
 # GE 4120 Elective Laboratory Projects
-
+<p align="center">
+  <img src="B94BC640-1094-4171-9F43-1DDB485F2192.jpeg" alt="Chona Mae R. Pajarillaga" width="180">
+</p>
 ---
 
 ## 👋 Introduction
